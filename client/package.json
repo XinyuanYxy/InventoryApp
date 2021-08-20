@@ -1,0 +1,26 @@
+{
+  "name": "intentoryapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "firebase": "^8.9.1",
+    "next": "^11.1.0",
+    "nookies": "^2.5.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-toastify": "^7.0.4",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3"
+  }
+}
